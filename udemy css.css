@@ -1,0 +1,39 @@
+/* ******** Tag selector*******  */
+
+
+hr{
+  background-color:white;
+  border-style: dotted none none;
+  height: 0px;
+  }
+  img:hover {
+    background-color: gold;
+
+  }
+
+
+/*  ******* classs selecor************  */
+  
+.please{
+  color: blueviolet;
+}
+
+.circular{
+  border-radius: none;
+}
+.color{
+  background-color: blanchedalmond;
+}
+
+
+
+
+/*  ******* Id selecor************  */
+
+#name{
+  color: red;
+}
+
+#mail{
+  color:red;
+}
